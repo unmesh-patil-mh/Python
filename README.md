@@ -8,7 +8,7 @@
 
 ## 📌 Overview  
 
-Welcome to my **Python Projects Repository** 🚀  
+Welcome to my **Python Repository** 🚀  
 
 This repository contains Python programs and mini-projects that demonstrate my understanding of:
 
