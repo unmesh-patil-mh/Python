@@ -18,7 +18,7 @@ This repository contains Python programs and mini-projects that demonstrate my u
 - File Handling  
 - Problem Solving  
 - Automation Basics  
-- Beginner Machine Learning Concepts (if applicable)
+- Beginner Machine Learning Concepts
 
 This repository represents my hands-on practice and continuous improvement in Python programming.
 
@@ -38,7 +38,7 @@ This repository represents my hands-on practice and continuous improvement in Py
 
 - **Language:** Python 3.x  
 - **IDE:** VS Code / Jupyter Notebook  
-- **Libraries Used (if applicable):**
+- **Libraries Used**
   - NumPy  
   - Pandas  
   - Matplotlib  
@@ -113,9 +113,8 @@ It highlights my journey from learning basics to building structured mini-projec
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: (Add your LinkedIn link here)  
-- 💻 GitHub: (Add your GitHub profile link here)  
-- 📧 Email: (Add your email here)  
+- 💻 GitHub: https://github.com/unmesh-patil-mh
+- 📧 Email: punmesh56@gmail.com
 
 ---
 
