@@ -115,7 +115,7 @@ It highlights my journey from learning basics to building structured mini-projec
 
 - 💻 GitHub: https://github.com/unmesh-patil-mh <br>
 - 🎯 Leetcode: https://leetcode.com/u/unmesh3010/
-- 🌐 Linkedin:
+- 🌐 Linkedin: www.linkedin.com/in/unmeshpatil2005
 - 📧 Email: punmesh56@gmail.com
 
 ---
